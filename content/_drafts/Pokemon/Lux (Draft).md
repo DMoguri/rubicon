@@ -1,6 +1,6 @@
 ![[Lux.png|200]]
 
-**Species:** Shinx
+**Species:** Shinx ♂️
 **Type:** Electric
 **Age:** 14 (as Shinx)
 **Ability:** Guts
