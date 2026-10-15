@@ -11,7 +11,7 @@ Lux is a naive and emotionally transparent Shinx, prone to showing his feelings 
 When faced with danger, Lux tends to freeze and struggles to break out of it. He has a tendency to cling to those he trusts for any difficult situation, often struggling to act without support. Despite this, he is far more capable when he has someone to rely on.
 
 He is genuinely kind and self-sacrificing, and when someone he cares for is in need, he will push himself far beyond his limits to support them. Loyal to a fault, his greatest strength is often his greatest vulnerability: he gives himself away too freely.
-##### Key Points (Brainstorming):
+##### Key Points (Won't be on the final page):
 	Fascinated by stars and their hidden meaning
 	Naive, often gullible
 	Very bad at hiding his emotions, even if it gets him in trouble sometimes
@@ -19,7 +19,7 @@ He is genuinely kind and self-sacrificing, and when someone he cares for is in n
 	Likes adventure but easily scared unless he has someone to support him
 
 ### Backstory:
-
+TBD
 ### Game Data (Not story relevant):
 
 | Moveset      |
