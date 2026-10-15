@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - Pokemon
+---
 ![[Lux.png|200]]
 
 **Species:** Shinx ♂️

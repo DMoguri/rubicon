@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+  - Pokemon
+---
 ![[Saint.png|200]]
 
 **Species:** Eevee ♂️
