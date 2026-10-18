@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: View
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - file.path
+      - file.embeds
+      - file.ctime
+  - type: list
+    name: View 2
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - file.ctime

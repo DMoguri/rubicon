@@ -112,11 +112,11 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts
-      title: Schibsted Grotesk
-      body: '"Lexend", sans-serif'
-      header: Schibsted Grotesk
+      title: '"Rubik", sans-serif'
+      body: '"Rubik", sans-serif'
+      header: '"Rubik", sans-serif'
       code: IBM Plex Mono
-      interface: '"Lexend", sans-serif'
+      interface: '"Rubik", sans-serif'
   - source: "@quartz-themes/core"
     enabled: true
     options:

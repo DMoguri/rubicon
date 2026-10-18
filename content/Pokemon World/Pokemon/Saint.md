@@ -17,15 +17,6 @@ Despite this exterior, Saint is observant and perceptive, with an exceptional ab
 
 In truth, Saint cares deeply for those around him, but he keeps his emotions carefully hidden behind a composed exterior. In lighter moments, he displays a big appetite, which contrasts humorously with his otherwise reserved demeanor.
 
-##### Key Points (Won't be on the final page):
-	Aloof, emotionally distant, sometimes comes off as rude
-	Doesn't like teamwork, but he's very good at directing multiple pokemon
-	Will still help others in need
-	Good initiative, but tries to do everything alone unless teamwork is the better choice
-	Extremely good at reading situations and sensing danger
-	He secretly cares a lot, but he keeps his emotions well hidden (tsundere?)
-	Glutton (quirky gag)
-
 ### Backstory:
 TBD
 ### Game Data (Not story relevant) :
