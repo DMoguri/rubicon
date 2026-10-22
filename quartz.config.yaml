@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      body: '"Rubik", sans-serif'
-      header: '"Rubik", sans-serif'
+      body: Rubik
+      header: Rubik
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -112,11 +112,11 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts
-      title: '"Rubik", sans-serif'
-      body: '"Rubik", sans-serif'
-      header: '"Rubik", sans-serif'
+      title: Rubik
+      body: Rubik
+      header: Rubik
       code: IBM Plex Mono
-      interface: '"Rubik", sans-serif'
+      interface: Rubik
   - source: "@quartz-themes/core"
     enabled: true
     options:
